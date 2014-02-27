@@ -2,5 +2,5 @@
   "appendChild":
     "prefix": "ac"
     "body": """
-    ${1:document}.appendChild('${2}');
+    ${1:document}.appendChild(${2:elem});
     """

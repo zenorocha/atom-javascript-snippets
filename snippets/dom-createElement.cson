@@ -2,5 +2,5 @@
   "createElement":
     "prefix": "cel"
     "body": """
-    ${1:document}.createElement('${2:elem}');
+    ${1:document}.createElement(${2:elem});
     """

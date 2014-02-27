@@ -45,25 +45,25 @@ ${1:document}.addEventListener('${2:event}', function(e) {
 ### [ac] appendChild
 
 ```javascript
-${1:document}.appendChild('${2}');
+${1:document}.appendChild(${2:elem});
 ```
 
 ### [rc] removeChild
 
 ```javascript
-${1:document}.removeChild('${2}');
+${1:document}.removeChild(${2:elem});
 ```
 
 ### [cel] createElement
 
 ```javascript
-${1:document}.createElement('${2:elem}');
+${1:document}.createElement(${2:elem});
 ```
 
 ### [cdf] createDocumentFragment
 
 ```javascript
-${1:document}.createDocumentFragment();
+${1:document}.createDocumentFragment(${2:elem});
 ```
 
 ### [ca] classList.add
@@ -123,13 +123,13 @@ ${1:document}.removeAttribute('${2:attr}');
 ### [ih] innerHTML
 
 ```javascript
-${1:document}.innerHTML = '${2}';
+${1:document}.innerHTML = '${2:elem}';
 ```
 
 ### [tc] textContent
 
 ```javascript
-${1:document}.textContent = '${2}';
+${1:document}.textContent = '${2:content}';
 ```
 
 ### [qs] querySelector
@@ -253,7 +253,7 @@ assert.notEqual(${1:actual}, ${2:expected});
 ### [me] module.exports
 
 ```javascript
-module.exports = ${1}
+module.exports = ${1:name};
 ```
 
 ### [pe] process.exit
