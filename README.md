@@ -300,6 +300,12 @@ it('${1:description}', function () {
 'use strict';
 ```
 
+### [al] alert
+
+```javascript
+alert('${1:msg}');
+```
+
 ### [pm] prompt
 
 ```javascript
@@ -316,7 +322,7 @@ prompt('${1:msg}');
 
 ## History
 
-Check [Release](https://github.com/zenorocha/sublime-snippets-js/releases) list.
+Check [Release](https://github.com/zenorocha/atom-javascript-snippets/releases) list.
 
 ## License
 
