@@ -1,10 +1,10 @@
 # JavaScript Snippets for [Atom](http://atom.io)
 
-![Demo](http://zno.io/QopI/subime-snippet.gif)
+![Demo](http://f.cl.ly/items/3J3k3w3Z1f473u2I3l0b/atom.gif)
 
 ## Install
 
-TODO: Write instructions
+Go to `Atom > Preferences...` then search for **JavaScript** in Packages tab.
 
 ## Console
 
