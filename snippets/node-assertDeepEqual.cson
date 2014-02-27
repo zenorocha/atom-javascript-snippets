@@ -1,0 +1,6 @@
+".source.js":
+  "assert.deepEqual":
+    "prefix": "asd"
+    "body": """
+    assert.deepEqual(${1:actual}, ${2:expected});
+    """

@@ -1,0 +1,6 @@
+".source.js":
+  "querySelectorAll":
+    "prefix": "qsa"
+    "body": """
+    ${1:document}.querySelectorAll('${2:selector}');
+    """

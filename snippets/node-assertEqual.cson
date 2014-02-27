@@ -1,0 +1,6 @@
+".source.js":
+  "assert.equal":
+    "prefix": "ase"
+    "body": """
+    assert.equal(${1:actual}, ${2:expected});
+    """

@@ -1,0 +1,6 @@
+".source.js":
+  "getElementsByTagName":
+    "prefix": "gt"
+    "body": """
+    ${1:document}.getElementsByTagName('${2:tag}');
+    """

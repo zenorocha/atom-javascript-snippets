@@ -1,0 +1,6 @@
+".source.js":
+  "require":
+    "prefix": "re"
+    "body": """
+    require('${1:module}');
+    """

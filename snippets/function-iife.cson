@@ -1,0 +1,8 @@
+".source.js":
+  "immediately-invoked function expression":
+    "prefix": "iife"
+    "body": """
+    (function (window, document, undefined) {
+      ${0:// body...}
+    })(window, document);
+    """

@@ -1,0 +1,6 @@
+".source.js":
+  "getElementsByClassName":
+    "prefix": "gc"
+    "body": """
+    ${1:document}.getElementsByClassName('${2:class}');
+    """

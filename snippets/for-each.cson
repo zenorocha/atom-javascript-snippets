@@ -1,0 +1,8 @@
+".source.js":
+  "forEach":
+    "prefix": "fe"
+    "body": """
+    ${1:myArray}.forEach(function (${2:elem}) {
+      ${0:// body...}
+    });
+    """

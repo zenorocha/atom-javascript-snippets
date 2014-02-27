@@ -1,0 +1,6 @@
+".source.js":
+  "classList.add":
+    "prefix": "ca"
+    "body": """
+    ${1:document}.classList.add('${2:class}');
+    """

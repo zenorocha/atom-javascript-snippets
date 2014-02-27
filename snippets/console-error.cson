@@ -1,0 +1,4 @@
+".source.js":
+  "console.error":
+    "prefix": "ce"
+    "body": "console.error(${1:obj});"

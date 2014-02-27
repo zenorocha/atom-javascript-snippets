@@ -1,0 +1,6 @@
+".source.js":
+  "querySelector":
+    "prefix": "qs"
+    "body": """
+    ${1:document}.querySelector('${2:selector}');
+    """

@@ -1,0 +1,6 @@
+".source.js":
+  "process.exit":
+    "prefix": "pe"
+    "body": """
+    process.exit(${1:code});
+    """
