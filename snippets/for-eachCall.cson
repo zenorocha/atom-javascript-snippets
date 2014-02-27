@@ -1,8 +1,0 @@
-".source.js":
-  "forEach.call":
-    "prefix": "fec"
-    "body": """
-    [].forEach.call(document.querySelectorAll(${1:selector}), function (${2:elem}) {
-      ${0:// body...}
-    });
-    """
