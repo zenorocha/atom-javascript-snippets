@@ -1,0 +1,14 @@
+{
+  "name": "javascript-snippets",
+  "main": "./lib/javascript-snippets",
+  "version": "0.0.0",
+  "description": "JavaScript & NodeJS Snippets for Atom",
+  "activationEvents": ["javascript-snippets:toggle"],
+  "repository": "https://github.com/zenorocha/atom-javascript-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
