@@ -210,6 +210,14 @@ ${1:methodName}.call(${2:context}, ${3:arguments})
 ${1:methodName}.apply(${2:context}, [${3:arguments}])
 ```
 
+### [ofn] function as a property of an object
+
+```javascript
+${1:functionName}: function (${2:arguments}) {
+	${3:// body...}
+}
+```
+
 ## Timer
 
 ### [si] setInterval
