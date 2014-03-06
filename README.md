@@ -4,7 +4,17 @@
 
 ## Install
 
-Go to `Atom > Preferences...` then search for **JavaScript** in Packages tab.
+Go to `Atom > Preferences...` then search for **JavaScript Snippets** in Packages tab.
+
+## Development
+
+```sh
+$ cd ~/.atom/packages
+$ git clone https://github.com/zenorocha/atom-javascript-snippets.git
+$ cd atom-javascript-snippets
+$ apm install
+$ apm link
+```
 
 ## Console
 
