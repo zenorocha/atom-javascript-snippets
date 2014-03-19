@@ -167,7 +167,7 @@ ${1:myArray}.forEach(function (${2:elem}) {
 ### [fi] for in
 
 ```javascript
-for (var ${1:prop} in ${2:obj}) {
+for (${1:prop} in ${2:obj}) {
 	if (${2:obj}.hasOwnProperty(${1:prop})) {
 		${0:// body...}
 	}
