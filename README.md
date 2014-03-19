@@ -159,7 +159,7 @@ ${1:document}.querySelectorAll('${2:selector}');
 ### [fe] forEach
 
 ```javascript
-${1:myArray}.forEach(function (${2:elem}) {
+${1:myArray}.forEach(function(${2:elem}) {
 	${0:// body...}
 });
 ```
@@ -203,7 +203,7 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 ### [iife] immediately-invoked function expression
 
 ```javascript
-(function (window, document, undefined) {
+(function(window, document, undefined) {
 	${0:// body...}
 })(window, document);
 ```
@@ -223,7 +223,7 @@ ${1:methodName}.apply(${2:context}, [${3:arguments}])
 ### [ofn] function as a property of an object
 
 ```javascript
-${1:functionName}: function (${2:arguments}) {
+${1:functionName}: function(${2:arguments}) {
 	${3:// body...}
 }
 ```
@@ -288,14 +288,14 @@ require('${1:module}');
 ### [desc] describe
 
 ```javascript
-describe('${1:description}', function () {
+describe('${1:description}', function() {
 	${0:// body...}
 });
 ```
 ### [ita] it asynchronous
 
 ```javascript
-it('${1:description}', function (done) {
+it('${1:description}', function(done) {
 	${0:// body...}
 });
 ```
@@ -303,7 +303,7 @@ it('${1:description}', function (done) {
 ### [its] it synchronous
 
 ```javascript
-it('${1:description}', function () {
+it('${1:description}', function() {
 	${0:// body...}
 });
 ```
