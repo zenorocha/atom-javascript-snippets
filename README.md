@@ -266,6 +266,12 @@ assert.deepEqual(${1:actual}, ${2:expected});
 assert.notEqual(${1:actual}, ${2:expected});
 ```
 
+### [cli] console.log with util.inspect
+
+```javascript
+console.log(require('util').inspect(${1:obj}, true, ${2:10}, true))${0}
+```
+
 ### [me] module.exports
 
 ```javascript
