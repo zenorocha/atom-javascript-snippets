@@ -1,0 +1,4 @@
+".source.js":
+  "util.inspect":
+    "prefix": "cli"
+    "body": "console.log(require('util').inspect(${1:obj}, true, ${0:10}, true))"
