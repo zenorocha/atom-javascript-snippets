@@ -11,5 +11,12 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {}
+  "devDependencies": {
+    "grunt": "0.4.2",
+    "grunt-cli": "0.1.11",
+    "grunt-lintspaces": "0.3.1"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
 }
