@@ -1,4 +1,4 @@
-# JavaScript Snippets for [Atom](http://atom.io)
+# JavaScript Snippets for [Atom](http://atom.io) [![Build Status](https://secure.travis-ci.org/zenorocha/atom-javascript-snippets.svg?branch=master)](https://travis-ci.org/zenorocha/atom-javascript-snippets)
 
 ![Demo](http://f.cl.ly/items/3J3k3w3Z1f473u2I3l0b/atom.gif)
 
