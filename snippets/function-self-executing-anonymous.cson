@@ -1,0 +1,8 @@
+".source.js":
+  "anonymous self-executing function":
+    "prefix": "asefn"
+    "body": """
+    (function(${2:params}) {
+      ${0:// body...}
+    })(${1:window});
+    """
