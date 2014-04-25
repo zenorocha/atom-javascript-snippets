@@ -1,0 +1,7 @@
+".source.js":
+  "JSDoc":
+    "prefix": "doc"
+    "body": """/**
+    * ${1:Description...}
+    **/
+    $2"""

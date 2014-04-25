@@ -328,6 +328,15 @@ alert('${1:msg}');
 prompt('${1:msg}');
 ```
 
+### [doc] JSDoc
+
+```javascript
+/**
+* ${1:Description...}
+**/
+$2
+```
+
 ## Contributing
 
 1. Fork it!
