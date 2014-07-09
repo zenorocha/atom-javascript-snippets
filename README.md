@@ -1,6 +1,6 @@
 # JavaScript Snippets for [Atom](http://atom.io) [![Build Status](https://secure.travis-ci.org/zenorocha/atom-javascript-snippets.svg?branch=master)](https://travis-ci.org/zenorocha/atom-javascript-snippets)
 
-![Demo](http://f.cl.ly/items/3J3k3w3Z1f473u2I3l0b/atom.gif)
+![Demo](https://cloud.githubusercontent.com/assets/398893/3528118/f07c2072-078b-11e4-93e9-ccb1339824e6.gif)
 
 ## Install
 
