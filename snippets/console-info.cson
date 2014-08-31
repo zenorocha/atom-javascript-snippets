@@ -1,0 +1,4 @@
+".source.js":
+  "console.info":
+    "prefix": "ci"
+    "body": "console.info('${1:name}', ${2:obj});"
