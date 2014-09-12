@@ -1,7 +1,7 @@
 {
   "name": "javascript-snippets",
   "main": "./lib/javascript-snippets",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "JavaScript & NodeJS Snippets for Atom",
   "activationEvents": [
     "javascript-snippets:toggle"
