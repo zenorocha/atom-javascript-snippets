@@ -1,7 +1,7 @@
 {
   "name": "javascript-snippets",
   "main": "./lib/javascript-snippets",
-  "version": "0.1.6",
+  "version": "1.0.0",
   "description": "JavaScript & NodeJS Snippets for Atom",
   "repository": "https://github.com/zenorocha/atom-javascript-snippets",
   "license": "MIT",
