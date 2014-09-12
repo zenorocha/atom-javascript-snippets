@@ -3,9 +3,6 @@
   "main": "./lib/javascript-snippets",
   "version": "0.1.6",
   "description": "JavaScript & NodeJS Snippets for Atom",
-  "activationEvents": [
-    "javascript-snippets:toggle"
-  ],
   "repository": "https://github.com/zenorocha/atom-javascript-snippets",
   "license": "MIT",
   "engines": {
