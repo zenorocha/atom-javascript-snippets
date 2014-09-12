@@ -36,6 +36,12 @@ console.error(${1:obj});
 console.log(${1:obj});
 ```
 
+### [ci] console.info
+
+```javascript
+console.info('${1:name}', ${2:obj});
+```
+
 ### [cw] console.warn
 
 ```javascript
