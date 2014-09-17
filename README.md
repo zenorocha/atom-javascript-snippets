@@ -42,6 +42,16 @@ console.log(${1:obj});
 console.warn(${1:obj});
 ```
 
+### [ctb] console.table
+
+```javascript
+console.table([{
+	'${1:key}': '${2:value}',
+	${0: // ...}
+}]);
+```
+
+
 ## DOM
 
 ### [ae] addEventListener
