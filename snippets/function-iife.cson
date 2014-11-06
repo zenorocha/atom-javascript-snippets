@@ -3,6 +3,6 @@
     "prefix": "iife"
     "body": """
     (function(window, document, undefined) {
-      ${0:// body...}
+    \t${0:// body...}
     })(window, document);
     """

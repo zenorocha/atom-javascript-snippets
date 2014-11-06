@@ -3,6 +3,6 @@
     "prefix": "ofn"
     "body": """
     ${1:functionName}: function(${2:arguments}) {
-      ${3:// body...}
+    \t${3:// body...}
     }
     """

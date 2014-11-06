@@ -3,6 +3,6 @@
     "prefix": "st"
     "body": """
     setTimeout(function() {
-      ${0:// body...}
+    \t${0:// body...}
     }, ${1:delay});
     """
