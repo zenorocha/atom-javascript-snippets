@@ -1,0 +1,8 @@
+".source.js":
+  "for":
+    "prefix": "fr"
+    "body": """
+    for (var ${1:prop} = 0; ${1:prop} < ${2:prop}; ${1:prop}++) {
+      ${0:// body...}
+    }
+    """

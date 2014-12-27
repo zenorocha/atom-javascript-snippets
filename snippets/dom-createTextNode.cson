@@ -1,0 +1,6 @@
+".source.js":
+  "createTextNode":
+    "prefix": "ctn"
+    "body": """
+    ${1:document}.createTextNode(${2:text});
+    """

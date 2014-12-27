@@ -1,0 +1,8 @@
+".source.js":
+  "onfocus":
+    "prefix": "of"
+    "body": """
+    ${1:document}.onfocus = function(e) {
+      ${0:// body...}
+    };
+    """
