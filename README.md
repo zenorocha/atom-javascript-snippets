@@ -202,7 +202,7 @@ ${1:document}.querySelectorAll('${2:selector}');
 ### [fr] for
 
 ```javascript
-for (var ${1:prop} = 0; ${1:prop} < ${2:prop}) {
+for (var ${1:i} = 0; ${1:i} < ${2:length}; ${1:i}++) {
 	${0:// body...}
 };
 ```
