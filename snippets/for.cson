@@ -2,7 +2,7 @@
   "for":
     "prefix": "fr"
     "body": """
-    for (var ${1:prop} = 0; ${1:prop} < ${2:prop}; ${1:prop}++) {
+    for (var ${1:i} = 0; ${1:i} < ${2:º}; ${1:i}++) {
       ${0:// body...}
     }
     """
