@@ -334,6 +334,12 @@ alert('${1:msg}');
 prompt('${1:msg}');
 ```
 
+### [co] confirm
+
+```javascript
+confirm('${1:msg}');
+```
+
 ## Contributing
 
 1. Fork it!
