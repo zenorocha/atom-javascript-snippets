@@ -340,6 +340,12 @@ prompt('${1:msg}');
 confirm('${1:msg}');
 ```
 
+### [de] debugger
+
+```javascript
+debugger;
+```
+
 ## Contributing
 
 1. Fork it!
