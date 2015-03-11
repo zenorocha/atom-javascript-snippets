@@ -1,0 +1,6 @@
+".source.js":
+  "debugger":
+    "prefix": "de"
+    "body": """
+    debugger;
+    """
