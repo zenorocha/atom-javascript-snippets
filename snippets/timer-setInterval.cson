@@ -2,7 +2,7 @@
   "setInterval":
     "prefix": "si"
     "body": """
-    setInterval(function() {
+    setInterval(function () {
       ${0:// body...}
     }, ${1:delay});
     """
