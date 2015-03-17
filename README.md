@@ -176,7 +176,7 @@ for (${1:prop} in ${2:obj}) {
 
 ## Function
 
-### [fn] function
+### [f] function
 
 ```javascript
 function ${1:methodName} (${2:arguments}) {
