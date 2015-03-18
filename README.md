@@ -42,6 +42,12 @@ console.log(${1:obj});
 console.warn(${1:obj});
 ```
 
+### [de] debugger
+
+```javascript
+debugger;
+```
+
 ## DOM
 
 ### [ae] addEventListener
@@ -328,22 +334,16 @@ it('${1:description}');
 alert('${1:msg}');
 ```
 
-### [pm] prompt
-
-```javascript
-prompt('${1:msg}');
-```
-
 ### [co] confirm
 
 ```javascript
 confirm('${1:msg}');
 ```
 
-### [de] debugger
+### [pm] prompt
 
 ```javascript
-debugger;
+prompt('${1:msg}');
 ```
 
 ## Contributing
