@@ -3,6 +3,6 @@
     "prefix": "desc"
     "body": """
     describe('${1:description}', function() {
-      ${0:// body...}
+    \t${0:// body...}
     });
     """

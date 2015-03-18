@@ -3,6 +3,6 @@
     "prefix": "fe"
     "body": """
     ${1:myArray}.forEach(function(${2:elem}) {
-      ${0:// body...}
+    \t${0:// body...}
     });
     """
