@@ -353,6 +353,18 @@ confirm('${1:msg}');
 prompt('${1:msg}');
 ```
 
+### [jp] JSON.parse
+
+```javascript
+JSON.parse('${1:msg}');
+```
+
+### [jp] JSON.stringify
+
+```javascript
+JSON.stringify('${1:msg}');
+```
+
 ## Contributing
 
 1. Fork it!
