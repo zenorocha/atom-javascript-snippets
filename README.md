@@ -5,6 +5,7 @@
 ## Install
 
 Go to `Atom > Preferences...` then search for **JavaScript Snippets** in Packages tab.
+Restart atom.
 
 ## Development
 
