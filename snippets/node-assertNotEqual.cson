@@ -1,4 +1,4 @@
-".source.js":
+".source.js, .source.jsx, .source.ts":
   "assert.notEqual":
     "prefix": "asn"
     "body": """

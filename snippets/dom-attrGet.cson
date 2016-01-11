@@ -1,4 +1,4 @@
-".source.js":
+".source.js, .source.jsx, .source.ts":
   "getAttribute":
     "prefix": "ga"
     "body": """

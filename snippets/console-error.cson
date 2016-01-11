@@ -1,4 +1,4 @@
-".source.js":
+".source.js, .source.jsx, .source.ts":
   "console.error":
     "prefix": "ce"
     "body": "console.error(${1:obj});"

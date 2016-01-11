@@ -1,4 +1,4 @@
-".source.js":
+".source.js, .source.jsx, .source.ts":
   "immediately-invoked function expression":
     "prefix": "iife"
     "body": """

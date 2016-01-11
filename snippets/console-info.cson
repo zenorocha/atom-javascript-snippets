@@ -1,4 +1,4 @@
-".source.js":
+".source.js, .source.jsx, .source.ts":
   "console.info":
     "prefix": "ci"
     "body": "console.info(${1:obj});"

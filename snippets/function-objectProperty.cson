@@ -1,4 +1,4 @@
-".source.js":
+".source.js, .source.jsx, .source.ts":
   "function as a property of an object":
     "prefix": "ofn"
     "body": """
