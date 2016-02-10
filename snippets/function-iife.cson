@@ -2,7 +2,7 @@
   "immediately-invoked function expression":
     "prefix": "iife"
     "body": """
-    (function(window, document, undefined) {
+    (function(${1:window}, ${2:document}) {
     \t${0:// body...}
-    })(window, document);
+    })(${1:window}, ${2:document});
     """
