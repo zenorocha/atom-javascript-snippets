@@ -1,4 +1,4 @@
-".source.js, .source.jsx, .source.ts":
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
   "JSON.parse":
     "prefix": "jp"
     "body": "JSON.parse(${1:obj});"
