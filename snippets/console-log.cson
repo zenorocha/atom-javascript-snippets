@@ -1,4 +1,4 @@
-".source.js, .source.jsx, .source.ts":
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
   "console.log":
     "prefix": "cl"
     "body": "console.log(${1:obj});"

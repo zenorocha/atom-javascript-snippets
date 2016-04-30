@@ -1,4 +1,4 @@
-".source.js, .source.jsx, .source.ts":
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
   "console.error":
     "prefix": "ce"
     "body": "console.error(${1:obj});"
