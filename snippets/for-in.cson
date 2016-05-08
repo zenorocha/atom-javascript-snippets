@@ -2,9 +2,8 @@
   "for in":
     "prefix": "fi"
     "body": """
-    for (${1:prop} in ${2:obj}) {
-    \tif (${2:obj}.hasOwnProperty(${1:prop})) {
-    \t\t${0:// body...}
-    \t}
+    for (${2:prop} in ${1:obj}) {
+    \tif (!${1:obj}.hasOwnProperty(${2:prop})) { continue; }
+    \t${0:// body...}
     }
     """
