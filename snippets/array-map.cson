@@ -1,0 +1,8 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  "map":
+    "prefix": "map"
+    "body": """
+    ${1:myArray}.map(function(${2:elem}) {
+    \t return ${0:// body...}
+    });
+    """

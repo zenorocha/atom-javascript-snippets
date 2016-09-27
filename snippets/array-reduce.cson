@@ -1,0 +1,8 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  "reduce":
+    "prefix": "reduce"
+    "body": """
+    ${1:myArray}.reduce(function(${2:elem}, ${3:elem2}) {
+    \t return ${0:// a + b}
+    });
+    """
