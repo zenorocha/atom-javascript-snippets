@@ -17,6 +17,22 @@ $ apm install
 $ apm link
 ```
 
+## Array
+
+### [map] map
+```javascript
+${1:myArray}.map(function(${2:elem}) {
+	return ${0:// body...}
+});
+```
+
+### [reduce] reduce
+```javascript
+${1:myArray}.reduce(function(${2:elem}, ${3:elem}) {
+	return ${0:// a + b}
+});
+```
+
 ## Console
 
 ### [cd] console.dir
