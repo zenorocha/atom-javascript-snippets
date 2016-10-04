@@ -1,0 +1,6 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  "arrmap":
+    "prefix": "map"
+    "body": """
+    ${1:myArray}.map(${2:elem} => ${0:// body...})
+    """
