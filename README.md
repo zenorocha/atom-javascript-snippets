@@ -299,10 +299,34 @@ assert.notEqual(${1:actual}, ${2:expected});
 module.exports = ${1:name};
 ```
 
+### [pa] process.argv
+
+```javascript
+process.argv[${1:key}]
+```
+
 ### [pe] process.exit
 
 ```javascript
 process.exit(${1:code});
+```
+
+### [pse] process.stderr
+
+```javascript
+process.stderr.${1:method}
+```
+
+### [psi] process.stdin
+
+```javascript
+process.stdin.${1:method}
+```
+
+### [pso] process.stdout
+
+```javascript
+process.stdout.${1:method}
 ```
 
 ### [re] require

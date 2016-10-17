@@ -1,0 +1,6 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  "process.argv":
+    "prefix": "pa"
+    "body": """
+    process.argv[${1:key}]
+    """
