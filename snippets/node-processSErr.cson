@@ -1,0 +1,6 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  "process.stderr":
+    "prefix": "pse"
+    "body": """
+    process.stderr.${1:method}
+    """
