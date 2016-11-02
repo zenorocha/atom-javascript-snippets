@@ -1,0 +1,6 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  "process.stdin":
+    "prefix": "psi"
+    "body": """
+    process.stdin.${1:method}
+    """
