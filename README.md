@@ -359,6 +359,16 @@ $.ajax({
 });
 ```
 
+### [jqe] jQuery.fn.extend()
+
+```javascript
+$.fn.extend({
+    ${1:methodName}: function (${2:options}) {
+        ${3://body...}
+    }
+});
+```
+
 ## Misc
 
 ### [us] use strict

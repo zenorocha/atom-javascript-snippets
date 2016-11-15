@@ -1,0 +1,10 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  "JQuery Extend":
+    "prefix": "jqe"
+    "body": """
+    $.fn.extend({
+        ${1:methodName}: function (${2:options}) {
+            ${3://body...}
+        }
+    });
+    """
