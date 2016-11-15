@@ -340,6 +340,24 @@ it('${1:description}', function() {
 ```javascript
 it('${1:description}');
 ```
+## JQuery
+
+### [jqa] jQuery.ajax()
+
+```javascript
+$.ajax({
+    method: '${1:GET}',
+    url: ${2:/},
+    dataType: '${3:json}',
+    data: '${4:data}',
+})
+.done(function( data ) {
+    ${5://data...}
+})
+.fail(function( jqXHR, textStatus ) {
+    console.error( "Request failed: " + textStatus );
+});
+```
 
 ## Misc
 
