@@ -1,0 +1,6 @@
+".source.js":
+  "insertBefore":
+    "prefix": "ib"
+    "body": """
+    ${1:document}.insertBefore(${2:element}, ${3:element});
+    """

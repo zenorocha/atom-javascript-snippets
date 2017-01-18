@@ -1,0 +1,8 @@
+".source.js":
+  "onblur":
+    "prefix": "ob"
+    "body": """
+    ${1:document}.onblur = function(e) {
+      ${0:// body...}
+    };
+    """

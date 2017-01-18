@@ -65,10 +65,47 @@ ${1:document}.addEventListener('${2:event}', function(e) {
 });
 ```
 
+### [oc] onclick
+
+```javascript
+${1:document}.onclick = function(e) {
+	${0:// body...}
+};
+```
+
+### [ol] onload
+
+```javascript
+${1:document}.onload = function(e) {
+	${0:// body...}
+});
+```
+
+### [of] onfocus
+
+```javascript
+${1:document}.onfocus = function(e) {
+	${0:// body...}
+});
+```
+
+### [ob] onblur
+
+```javascript
+${1:document}.onblur = function(e) {
+	${0:// body...}
+});
+```
+
 ### [ac] appendChild
 
 ```javascript
 ${1:document}.appendChild(${2:elem});
+```
+### [ib] insertBefore
+
+```javascript
+${1:document}.insertBefore(${2:elem}, ${3:elem});
 ```
 
 ### [rc] removeChild
@@ -81,6 +118,12 @@ ${1:document}.removeChild(${2:elem});
 
 ```javascript
 ${1:document}.createElement(${2:elem});
+```
+
+### [ctn] createTextNode
+
+```javascript
+${1:document}.createTextNode(${2:text});
 ```
 
 ### [cdf] createDocumentFragment
@@ -168,6 +211,14 @@ ${1:document}.querySelectorAll('${2:selector}');
 ```
 
 ## Loop
+
+### [fr] for
+
+```javascript
+for (var ${1:i} = 0; ${1:i} < ${2:length}; ${1:i}++) {
+	${0:// body...}
+};
+```
 
 ### [fe] forEach
 
