@@ -187,6 +187,14 @@ for (${1:prop} in ${2:obj}) {
 }
 ```
 
+### [fr] for reverse
+
+```javascript
+for (var ${2:i} = ${1:array}.length - 1; ${2:i} >= 0; ${2:i}--) {
+	${3:${1:array}[${2:i}]}$0
+}
+```
+
 ## Function
 
 ### [fn] function
