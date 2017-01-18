@@ -205,6 +205,14 @@ function(${1:arguments}) {
 }
 ```
 
+### [cb] callback
+
+```javascript
+if (typeof ${1:callback} === 'function') {
+	${1:callback}(${2:arguments});
+}
+```
+
 ### [pr] prototype
 
 ```javascript

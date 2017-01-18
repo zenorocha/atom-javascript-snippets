@@ -1,0 +1,8 @@
+".source.js":
+  "callback":
+    "prefix": "cb"
+    "body": """
+    if (typeof ${1:callback} === 'function') {
+    \t${1:callback}(${2:arguments});
+    }
+    """
