@@ -366,6 +366,15 @@ confirm('${1:msg}');
 ```javascript
 prompt('${1:msg}');
 ```
+### [sw] switch
+
+```javascript
+switch (${1:expression}) {
+	case ${0:statement}:
+	break;
+};
+```
+
 
 ## Contributing
 

@@ -1,0 +1,9 @@
+".source.js":
+  "switch":
+    "prefix": "sw"
+    "body": """
+    switch (${1:expression}) {
+      case ${0:statement}:
+      break;
+    };
+    """
