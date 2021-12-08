@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Array Sort':
+   'prefix': 'sort'
+   'body': '${1:array}.sort()'

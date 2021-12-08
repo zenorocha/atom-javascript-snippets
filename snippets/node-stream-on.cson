@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Stream on':
+    'prefix': 'on'
+    'body': 'on("${1:data}", () => {$2})'

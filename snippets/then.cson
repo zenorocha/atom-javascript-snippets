@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Then':
+   'prefix': 'then'
+   'body': ".then( (${1:res}) => {$2})"

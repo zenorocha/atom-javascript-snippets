@@ -1,0 +1,6 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'App.post':
+    'prefix': 'apppost'
+    'body': """app.post('$1', async (req, res, next$2) => {
+               $3
+               })"""

@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Event Stop Propagation':
+   'prefix': 'e.sp'
+   'body': '${1:event}.stopPropagation();'

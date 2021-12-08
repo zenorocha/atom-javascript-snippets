@@ -1,0 +1,7 @@
+# For Javascript
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'For Of':
+   'prefix': 'forof'
+   'body': """for (let ${1:i} of ${2:array}) {
+                if (${1:i})
+              }"""

@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Array Filter':
+   'prefix': 'filt'
+   'body': '${1:array}.filter( $2e => $3)'

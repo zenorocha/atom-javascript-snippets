@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'ThenCatch':
+   'prefix': 'thencatch'
+   'body': ".then( (${1:res}) => {$2}).catch( (err) => {$3})"

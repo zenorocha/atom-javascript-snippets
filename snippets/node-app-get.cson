@@ -1,0 +1,6 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'App.get':
+    'prefix': 'appget'
+    'body': """app.get('$1', async (req, res, next$2) => {
+               $3
+               })"""

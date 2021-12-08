@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Array Map':
+   'prefix': 'map'
+   'body': '${1:array}.map( $2e => $3)'

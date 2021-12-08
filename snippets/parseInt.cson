@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Parse Integer':
+   'prefix': 'parse'
+   'body': 'parseInt(${1:str})'

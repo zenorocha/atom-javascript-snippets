@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Array Find':
+   'prefix': 'find'
+   'body': '${1:array}.find( $2e => $3)'
