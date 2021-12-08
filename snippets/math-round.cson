@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Math Round':
+   'prefix': 'round'
+   'body': 'Math.round(${1:num})'

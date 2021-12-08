@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Math Ceil':
+   'prefix': 'ceil'
+   'body': 'Math.ceil(${1:num})'

@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Event Prevent Default':
+   'prefix': 'e.pd'
+   'body': '${1:event}.preventDefault();'

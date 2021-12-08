@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'String IndexOf':
+   'prefix': 'ind'
+   'body': '${1:str}.indexOf($2)'

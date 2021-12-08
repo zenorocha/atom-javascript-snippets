@@ -1,0 +1,6 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Router.get':
+    'prefix': 'routeget'
+    'body': """router.get('$1', async (req, res, next$2) => {
+               $3
+               })"""

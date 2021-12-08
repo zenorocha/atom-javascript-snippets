@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Array Reduce':
+   'prefix': 'redu'
+   'body': '${1:array}.reduce( (acc, cur$2) => $3)'

@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'String Replace':
+   'prefix': 'repl'
+   'body': '${1:str}.replace("$2", "$3")'

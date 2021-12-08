@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Math Floor':
+   'prefix': 'floor'
+   'body': 'Math.floor(${1:num})'

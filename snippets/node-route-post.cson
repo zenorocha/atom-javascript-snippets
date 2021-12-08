@@ -1,0 +1,6 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Router.post':
+    'prefix': 'routepost'
+    'body': """router.post('$1', async (req, res, next$2) => {
+               $3
+               })"""

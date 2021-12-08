@@ -1,0 +1,4 @@
+".source.js, .source.jsx, .source.ts, .source.js-semantic":
+  'Array Sort Integer':
+   'prefix': 'sortnum'
+   'body': '${1:array}.sort( (${2:a}, ${3:b}) => ${2:a} - ${3:b})'
